@@ -1,0 +1,34 @@
+
+*{color:#fff;}
+.bg
+{
+	background: url('../images/1.jpg')no-repeat; width:100%; height:100vh;
+}
+
+
+.form-container
+{
+	border:0px solid #fff; padding:20px 40px; margin-top:4vh;
+
+    -webkit-box-shadow: 0px 4px 36px 6px rgba(0,0,0,1);
+   -moz-box-shadow: 0px 4px 36px 6px rgba(0,0,0,1);
+   box-shadow: 0px 4px 36px 6px rgba(0,0,0,1);
+
+}
+
+
+.form-container h2
+{
+	margin-left:120px;
+	color: #000;
+}
+.form-container p
+{
+	margin-left:165px;
+	color: #000;
+}
+
+.redio-inline + .redio-inline
+{
+	margin-left: 110px;
+}
